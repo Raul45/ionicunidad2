@@ -1,0 +1,31 @@
+[
+    {
+        "nombre":"modal",
+        "icon":"logo-windows",
+        "url":"/modal"
+
+    },
+    {
+        "nombre":"grid",
+        "icon":"grid",
+        "url":"/grid"
+
+    },
+    {
+        "nombre":"inifinite",
+        "icon":"infinite",
+        "url":"/infinite"
+
+    },
+    {
+        "nombre":"loading",
+        "icon":"clock",
+        "url":"/loadin"
+
+    },{
+        "nombre":"inputs",
+        "icon":"information-circle-outline",
+        "url":"/input"
+
+    }
+]
